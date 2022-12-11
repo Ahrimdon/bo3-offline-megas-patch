@@ -1,8 +1,12 @@
+* ## ***A mod for local & offline (including Steam) play. This mod allows you to have all the online features while playing offline.***
+* ## ***This can be useful if you are a solo player/streamer wishing to avoid hackers.***
+* ## ***This mod includes my scripts from my [Graphical Optimization Mod](https://github.com/Ahrimdon/BO3-Graphical-Improvement-Console-Enabler).***
+
 # Install
 
-# Drag the *"players"* & *"mods"* folders into your Black Ops 3 directory
-
-## Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\```
+## 1. Drag the *"players"* & *"mods"* Folders Into Your Black Ops 3 Directory
+* Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\```
+## 2. Start Game and Load Mod
 
 # Features
 
