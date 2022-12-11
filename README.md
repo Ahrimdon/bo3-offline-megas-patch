@@ -1,6 +1,10 @@
-# BO3-Offline-Megas-Patch
+# <ins>Install</ins>
 
-# Features
+# Drag the *"players"* & *"mods"* folders into your Black Ops 3 directory
+
+## Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\```
+
+# <ins>Features</ins>
 
 ## **Mod Created, Packed & Organized by Ahrimdon**
 
