@@ -1,10 +1,10 @@
-# <ins>Install</ins>
+# Install
 
 # Drag the *"players"* & *"mods"* folders into your Black Ops 3 directory
 
 ## Default Location: ```C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III\```
 
-# <ins>Features</ins>
+# Features
 
 ## **Mod Created, Packed & Organized by Ahrimdon**
 
@@ -12,7 +12,7 @@
 
 [Twitch](https://www.twitch.tv/thahrimdon)
 
-## <u>offline_megas</u>
+### <ins>offline_megas</ins>
 
 ### Online Features
 - [X] All Mega Gobblegums Offline
@@ -30,7 +30,7 @@
 
 ---
 
-## <u>offline_megas_extra</u>
+### <ins>offline_megas_extra</ins>
 
 ### Online Features
 - [X] All Mega Gobblegums Offline
