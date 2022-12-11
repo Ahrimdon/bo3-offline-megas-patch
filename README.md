@@ -11,7 +11,7 @@
 
 # Features
 
-### **Mod Created, Mainly Coded (w/ Help), Packed & Organized by Ahrimdon**
+### **Mod Created, Put Together & Partially Coded by Ahrimdon**
 
 [YouTube](https://youtube.com/@thahrimdon)
 
