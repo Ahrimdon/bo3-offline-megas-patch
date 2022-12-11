@@ -1,3 +1,4 @@
+#bo3-offline-megas-patch
 * ### ***A mod for local & offline (including Steam) play. This mod allows you to have all the online features while playing offline.***
 * ### ***This can be useful if you are a solo player/streamer wishing to avoid hackers.***
 * ### ***This mod includes my scripts from my [Graphical Optimization Mod](https://github.com/Ahrimdon/BO3-Graphical-Improvement-Console-Enabler).***
